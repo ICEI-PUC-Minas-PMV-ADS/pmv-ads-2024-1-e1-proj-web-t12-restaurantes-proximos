@@ -6,7 +6,7 @@
 
 `1º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O objetivo geral deste projeto é a criação de uma aplicação web de avaliação de restaurantes, destinada a simplificar a busca por experiências gastronômicas locais. A plataforma centraliza informações sobre os estabelecimentos, oferece funcionalidades de pesquisa, possibilita a avaliação e interação dos usuários, além de promover os negócios locais e a comunidade gastronômica.
 
 ## Integrantes
 
