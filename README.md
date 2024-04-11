@@ -1,4 +1,4 @@
-# Título do Projeto
+# RESTAURANTES PRÓXIMOS
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
