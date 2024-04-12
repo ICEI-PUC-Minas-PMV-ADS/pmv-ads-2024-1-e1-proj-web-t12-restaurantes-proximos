@@ -19,7 +19,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de avaliaç
 
 ## Orientador
 
-* Nome completo do professor
+* Pedro Felipe Alves de Oliveira
 
 # Documentação
 
