@@ -15,11 +15,11 @@ A falta de informações mais claras, o excesso de propagandas e a poluição vi
 
 Como objetivos específicos, podemos destacar:
 
-•	Centralizar as informações sobre restaurantes para facilitar a escolha dos usuários.
+ •	Centralizar as informações sobre restaurantes para facilitar a escolha dos usuários.
 
-•	Simplificar a avaliação de experiências em restaurantes, permitindo feedback direto aos estabelecimentos.
+ •	Simplificar a avaliação de experiências em restaurantes, permitindo feedback direto aos estabelecimentos.
 
-•	Melhorar a experiência do usuário ao reduzir a poluição visual e o excesso de propagandas na plataforma.
+ •	Melhorar a experiência do usuário ao reduzir a poluição visual e o excesso de propagandas na plataforma.
 
 
 ## Justificativa
@@ -32,20 +32,20 @@ Visando melhorar a experiência gastronômica de forma seletiva podemos notar ce
 
 Podemos estabelecer como público-alvo, tendo base as necessidades acima, homens e mulheres da seguinte maneira:
 
-•	Admiradores de um prato típico, tendo um enfoque para um tipo de culinária específica no local.
+ •	Admiradores de um prato típico, tendo um enfoque para um tipo de culinária específica no local.
 
-•	Famílias em férias, tendo enfoque para um ambiente que atenda a necessidade do grupo.
+ •	Famílias em férias, tendo enfoque para um ambiente que atenda a necessidade do grupo.
 
-•	Casais, visando ter uma experiência romântica dentro dos padrões do ambiente.
+ •	Casais, visando ter uma experiência romântica dentro dos padrões do ambiente.
 
-•	Críticos da culinária que desejam expor a sua experiência à sociedade.
+ •	Críticos da culinária que desejam expor a sua experiência à sociedade.
 
-•	Jovens adultos que tenham vida ativa, visando uma nova experiência local.
+ •	Jovens adultos que tenham vida ativa, visando uma nova experiência local.
 
-•	Profissionais sobrecarregados, procurando uma forma rápida de suprir suas necessidades pessoais e economizar tempo em viagens a trabalho.
+ •	Profissionais sobrecarregados, procurando uma forma rápida de suprir suas necessidades pessoais e economizar tempo em viagens a trabalho.
 
-•	Pessoas com necessidades especiais (PCD), buscando acessibilidade.
+ •	Pessoas com necessidades especiais (PCD), buscando acessibilidade.
 
-•	Proprietário da loja, buscando melhorar infraestrutura, culinária, atendimento, e crescimento no ramo.
+ •	Proprietário da loja, buscando melhorar infraestrutura, culinária, atendimento, e crescimento no ramo.
 
 
