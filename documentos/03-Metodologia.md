@@ -1,8 +1,9 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+A metodologia escolhida para o desenvolvimento do projeto foi a Metodologia Ágil Kanban. A metodologia ágil Kanban será implementada no desenvolvimento do projeto com o objetivo de otimizar o fluxo de trabalho da equipe e garantir uma entrega contínua de valor aos clientes. Esta abordagem se baseia na visualização do trabalho, limitação do trabalho em progresso,  feedback regular da equipe e melhoria contínua do processo.
 
+Conboy (2009) define agilidade no desenvolvimento de software como a capacidade de responder rapidamente às mudanças e aprender com elas, agregando valor de forma econômica, de qualidade e simplificada ao cliente. Isso implica em criar um ambiente que promova o envolvimento e o relacionamento entre os membros da equipe, incentivando a colaboração e a comunicação aberta.
 
 ## Gerenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
