@@ -1,35 +1,41 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+Na era digital em que vivemos, a busca por experiências gastronômicas excepcionais é uma constante. No entanto, com o aumento do número de estabelecimentos é um movimento do mercado diante das mudanças no perfil de consumo alimentar da população encontrar o local ideal que atenda aos gostos individuais, preferências culinárias e orçamento pode ser uma tarefa desafiadora. Para mitigar esse problema e proporcionar uma plataforma abrangente e acessível para avaliar e descobrir restaurantes locais, propomos o desenvolvimento de um site de avaliação de restaurantes, facilitando o contato entre consumidores em potencial e estabelecimentos gastronômicos.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O problema que se apresenta, e que este projeto visa abordar, é a dispersão de informações gerais e específicas referentes aos restaurantes locais, enfrentada pelos turistas de modo geral em suas viagens para a otimização do seu tempo e da experiência gastronômica e turística a ser vivida. 
+
+A falta de informações mais claras, o excesso de propagandas e a poluição visual das plataformas já existentes, impactam negativamente na experiência de consumo, dificultando a troca de informações entre os restaurantes e o turista, um consumidor em potencial.  Essa lacuna pode resultar em perda de tempo por parte do turista e em uma subutilização dos serviços oferecidos pela falta de uma plataforma unificada.
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+  O objetivo geral desse projeto é desenvolver uma aplicação que visa transformar a experiência dos turistas ao explorar o mercado local de restaurantes, unificando as informações e facilitando o contato entre consumidores em potencial e estabelecimentos gastronômicos. O objetivo é criar uma plataforma intuitiva e abrangente que permita aos usuários descobrirem, avaliar e se conectar com uma variedade de opções culinárias durante suas viagens.
+
+Como objetivos específicos, podemos destacar:
+
+•	Centralizar as informações sobre restaurantes para facilitar a escolha dos usuários.
+•	Simplificar a avaliação de experiências em restaurantes, permitindo feedback direto aos estabelecimentos.
+•	Melhorar a experiência do usuário ao reduzir a poluição visual e o excesso de propagandas na plataforma.
+
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
-
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
-
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Este projeto é justificado pela crescente demanda por soluções que simplifiquem o processo de escolha de restaurantes e melhorem a experiência do usuário. Além disso, a criação de uma plataforma que promova a descoberta e apoie os negócios locais é fundamental para fortalecer a comunidade e estimular o desenvolvimento econômico.
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+Visando melhorar a experiência gastronômica de forma seletiva podemos notar certo padrão de público-alvo listando as necessidades de suprir a satisfação não só do paladar, como também toda a experiência em relação a estrutura e atendimento ao cliente, cultura local, praticidade e por necessidade pessoal.
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+•	Podemos estabelecer como público-alvo, tendo base as necessidades acima, homens e mulheres da seguinte maneira:
+•	Admiradores de um prato típico, tendo um enfoque para um tipo de culinária específica no local.
+•	Famílias em férias, tendo enfoque para um ambiente que atenda a necessidade do grupo.
+•	Casais, visando ter uma experiência romântica dentro dos padrões do ambiente.
+•	Críticos da culinária que desejam expor a sua experiência à sociedade.
+•	Jovens adultos que tenham vida ativa, visando uma nova experiência local.
+•	Profissionais sobrecarregados, procurando uma forma rápida de suprir suas necessidades pessoais e economizar tempo em viagens a trabalho.
+•	Pessoas com necessidades especiais (PCD), buscando acessibilidade.
+•	Proprietário da loja, buscando melhorar infraestrutura, culinária, atendimento, e crescimento no ramo.
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
