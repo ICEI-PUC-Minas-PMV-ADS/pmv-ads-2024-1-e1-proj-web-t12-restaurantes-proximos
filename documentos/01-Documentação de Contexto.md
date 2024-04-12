@@ -16,7 +16,9 @@ A falta de informações mais claras, o excesso de propagandas e a poluição vi
 Como objetivos específicos, podemos destacar:
 
 •	Centralizar as informações sobre restaurantes para facilitar a escolha dos usuários.
+
 •	Simplificar a avaliação de experiências em restaurantes, permitindo feedback direto aos estabelecimentos.
+
 •	Melhorar a experiência do usuário ao reduzir a poluição visual e o excesso de propagandas na plataforma.
 
 
@@ -28,14 +30,22 @@ Este projeto é justificado pela crescente demanda por soluções que simplifiqu
 
 Visando melhorar a experiência gastronômica de forma seletiva podemos notar certo padrão de público-alvo listando as necessidades de suprir a satisfação não só do paladar, como também toda a experiência em relação a estrutura e atendimento ao cliente, cultura local, praticidade e por necessidade pessoal.
 
-•	Podemos estabelecer como público-alvo, tendo base as necessidades acima, homens e mulheres da seguinte maneira:
+Podemos estabelecer como público-alvo, tendo base as necessidades acima, homens e mulheres da seguinte maneira:
+
 •	Admiradores de um prato típico, tendo um enfoque para um tipo de culinária específica no local.
+
 •	Famílias em férias, tendo enfoque para um ambiente que atenda a necessidade do grupo.
+
 •	Casais, visando ter uma experiência romântica dentro dos padrões do ambiente.
+
 •	Críticos da culinária que desejam expor a sua experiência à sociedade.
+
 •	Jovens adultos que tenham vida ativa, visando uma nova experiência local.
+
 •	Profissionais sobrecarregados, procurando uma forma rápida de suprir suas necessidades pessoais e economizar tempo em viagens a trabalho.
+
 •	Pessoas com necessidades especiais (PCD), buscando acessibilidade.
+
 •	Proprietário da loja, buscando melhorar infraestrutura, culinária, atendimento, e crescimento no ramo.
 
 
