@@ -3,9 +3,9 @@
 
 ## Gerenciamento de Projeto
 
-A metodologia escolhida para o desenvolvimento do projeto foi a Metodologia Ágil Kanban. A metodologia ágil Kanban será implementada no desenvolvimento do projeto com o objetivo de otimizar o fluxo de trabalho da equipe e garantir uma entrega contínua de valor aos clientes. Esta abordagem se baseia na visualização do trabalho, limitação do trabalho em progresso,  feedback regular da equipe e melhoria contínua do processo.
+A metodologia escolhida para o desenvolvimento do projeto foi a Metodologia Ágil Scrum. Essa abordagem se baseia na divisão do trabalho em iterações chamadas de Sprints, que geralmente têm duração de duas a quatro semanas, permitindo uma entrega incremental de funcionalidades.
 
-Conboy (2009) define agilidade no desenvolvimento de software como a capacidade de responder rapidamente às mudanças e aprender com elas, agregando valor de forma econômica, de qualidade e simplificada ao cliente. Isso implica em criar um ambiente que promova o envolvimento e o relacionamento entre os membros da equipe, incentivando a colaboração e a comunicação aberta.
+Segundo Schwaber e Sutherland (2017), o Scrum é uma estrutura na qual pessoas podem lidar com problemas complexos, enquanto produzem produtos de forma produtiva e criativa, entregando o máximo de valor possível. Isso envolve a formação de equipes auto-organizadas e multifuncionais, que são capacitadas a tomar decisões e resolver problemas de forma colaborativa. 
 
 ### Divisão de Papéis
 
