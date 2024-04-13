@@ -14,10 +14,10 @@
 
 ### Requisitos Funcionais
 
-![Capturar 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/5d4ebf97-9c22-4124-adc1-6d38d57e3065)
+![Capturar 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/9b8d24f6-05eb-4c2b-a73a-1437f65ee40a)
 
 
 ### Requisitos não Funcionais
 
-![Capturar 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/31e29cd9-c93e-424b-972f-3d5cda228ff5)
+![Capturar 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/0f4bdb6e-6225-430f-8bc7-8b0f0088e0a3)
 
