@@ -13,7 +13,7 @@ Desta forma, a equipe está organizada da seguinte maneira:
 
 - Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
 - Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
+- Equipe de Desenvolvimento: Leticia Moreira; Maria Eduarda; Mariana Santos; Matheus Ferreira; Thiago Macley. 
 - Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
 
 ### Processo
