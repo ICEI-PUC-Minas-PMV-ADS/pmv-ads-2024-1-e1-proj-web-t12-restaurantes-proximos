@@ -2,23 +2,34 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil Nome </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>...</td>
-</tr>
-</tbody>
-</table>
+Perfil Consumidor  
+
+Descrição: 
+
+Pessoa em busca de um restaurante. 
+
+Necessidades: 
+
+Filtrar por localidade. 
+
+Ter acesso ao cardápio online. 
+
+Filtrar por Ambiente. 
+
+Filtrar por Avaliações. 
+
+Ver fotos do restaurante. 
+
+Verificar se possui estacionamento. 
+
+Verificar se possui espaço kids. 
+
+Fazer Reserva online. 
+
+Horário de Funcionamento. 
+
+
 
 
 ## Histórias de Usuários
