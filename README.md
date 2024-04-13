@@ -11,11 +11,10 @@ O objetivo geral deste projeto é a criação de uma aplicação web de avaliaç
 ## Integrantes
 
 * Leticia Moreira da Silva
+* Maria Eduarda Cândido Alves Guerra
 * Mariana Santos Baptista
 * Matheus Ferreira Bacelar
 * Thiago Macley Ferraraccio 
-* Nome completo do aluno 5
-* Nome completo do aluno 6
 
 ## Orientador
 
