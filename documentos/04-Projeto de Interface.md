@@ -16,10 +16,55 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
+*Tela 1 - Home Page*
+
+O usuário pode buscar sua localização ou a comida desejada na barra de pesquisa, ou o site automaticamente solicita permissão de localização através de um pop-up.
+
+
+*Tela 2 - Login*
+
+Se já possuírem cadastro, os usuários podem acessar suas contas para desfrutar de recursos como histórico de pedidos, favoritos e recomendações personalizadas.
+
+
+
+*Tela 2 - Cadastro*
+
+Caso não tenham cadastro no site, podem criar suas contas e registrar suas informações.
+
+
+
+*Tela 4 - Resultados da Pesquisa*
+
+Aqui aparecem os resultados da busca, seja ela por localização, tipo de comida ou nome de um restaurante.
+
+
+
+*Tela 5 - Detalhes da busca*
+
+Nessa tela, são apresentadas informações mais detalhadas sobre o restaurante escolhido pelo usuário na tela anterior.
+
+
+
+
+*Tela 6 - Navegação/Deslocamento até o restaurante escolhido*
+
+É apresentada uma rota que o usuário pode seguir até o restaurante, através de aplicativos de GPS.
+
+
+
+*Tela 7 - Realização dos pedidos/reservas*
+
+A caminho do local, o usuário já pode fazer seus pedidos ou realizar uma reserva.
+
+
+
+*Tela 8 - Feedback/Avaliações*
+
+Com o objetivo de melhorar sua própria expêriencia como cliente, o usuário pode deixar avaliações para o restaurante, contribuindo para a qualidade do serviço e ajudando outros a fazerem escolhas informadas.
+
+
+
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 >- Ferramentas:
