@@ -2,32 +2,7 @@
 
 ## Perfis de Usuários
 
-
-Perfil Consumidor  
-
-Descrição: 
-
-Pessoa em busca de um restaurante. 
-
-Necessidades: 
-
-Filtrar por localidade. 
-
-Ter acesso ao cardápio online. 
-
-Filtrar por Ambiente. 
-
-Filtrar por Avaliações. 
-
-Ver fotos do restaurante. 
-
-Verificar se possui estacionamento. 
-
-Verificar se possui espaço kids. 
-
-Fazer Reserva online. 
-
-Horário de Funcionamento. 
+![Capturar 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/a13e3bf3-033e-41dc-b1ef-f5ab261c5f23)
 
 
 
