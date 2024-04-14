@@ -21,7 +21,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 O usuário pode buscar sua localização ou a comida desejada na barra de pesquisa, ou o site automaticamente solicita permissão de localização através de um pop-up.
 
-<img src="https://files.fm/f/vhxrpp2kha" alt="Tela 1 - Home Page">
+![Home Page](https://files.fm/f/vhxrpp2kha)
 
 *Tela 2 - Login*
 
