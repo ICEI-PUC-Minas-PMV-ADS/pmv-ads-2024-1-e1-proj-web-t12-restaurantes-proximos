@@ -21,6 +21,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 O usuário pode buscar sua localização ou a comida desejada na barra de pesquisa, ou o site automaticamente solicita permissão de localização através de um pop-up.
 
+<img src="https://files.fm/f/vhxrpp2kha" alt="Tela 1 - Home Page">
 
 *Tela 2 - Login*
 
@@ -28,7 +29,7 @@ Se já possuírem cadastro, os usuários podem acessar suas contas para desfruta
 
 
 
-*Tela 2 - Cadastro*
+*Tela 3 - Cadastro*
 
 Caso não tenham cadastro no site, podem criar suas contas e registrar suas informações.
 
