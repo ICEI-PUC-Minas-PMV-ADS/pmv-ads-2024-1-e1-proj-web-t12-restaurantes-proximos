@@ -78,7 +78,8 @@ Administrar é cuidar do website
 <td><b>Necessidades</b></td>
 <td>
 Corrigir bugs  
-Excluir avaliações mentiroso
+  
+Controle de acesso 
 Promover atualizações
 </td>
 </tr>
