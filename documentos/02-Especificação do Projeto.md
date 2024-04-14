@@ -40,23 +40,51 @@ Horário de Funcionamento.
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 2: Ex-aluno </th>
+<th colspan="2">Perfil 2: Comerciante  </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Ex-aluno do ensino superior. 
+Restaurantes em busca de clientes 
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Entender as demandas dos alunos; 
-2. Ambiente educacional para orientar e entrar em contato com os alunos.
+Entender as demandas dos clientes. 
+
+Cadastrar pratos  
+
+Inserir imagens  
+
+Disponibilizar informações sobre o estabelecimento  
 </td>
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">Perfil 2: Moderador </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">
+Administrar é cuidar so website
+</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+Corrigir bugs  
+Excluir avaliações mentiroso
+Promover atualizações
+</td>
+</tr>
+</tbody>
+</table>
+
 
 
 ## Histórias de Usuários
