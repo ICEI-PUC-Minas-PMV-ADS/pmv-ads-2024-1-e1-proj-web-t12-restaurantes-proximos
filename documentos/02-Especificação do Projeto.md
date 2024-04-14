@@ -66,7 +66,7 @@ Disponibilizar informações sobre o estabelecimento
 <table>
 <tbody>
 <tr>
-<th colspan="3">Perfil 3: Moderador </th>
+<th colspan="3">Perfil 3: Administrador   </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -88,8 +88,14 @@ Promover atualizações
 
 
 ## Histórias de Usuários
-
-![Capturar 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/4d33db8e-4b19-4385-8a34-e76deda89261)
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Consumidor  | Encontrar um restaurante em um raio de 2km  | Estou com dificuldade de locomoção   |
+|Consumidor  | Buscar restaurantes em Cabo Frio   | Estou em viagem e não conheço a região   |
+|Consumidor |Buscar restaurantes 5 estrelas   | Quero ter uma noite especial em casal    |
+|Comerciante | Cadastrar pratos típicos da região    | Tem uma alta procura de clientes   |
+|Comerciante | Informar que o comércio tem estacionamento  | Facilitar e dar mais conforto aos clientes |
+|Administrador   |Controle de dados   | Analisar dados de perfis maliciosos, suporte, manutenção  |
 
 
 ## Requisitos do Projeto
