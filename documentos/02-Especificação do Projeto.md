@@ -71,7 +71,7 @@ Disponibilizar informações sobre o estabelecimento
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Administrar é cuidar so website
+Administrar é cuidar do website
 </td>
 </tr>
 <tr>
