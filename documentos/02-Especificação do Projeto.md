@@ -66,7 +66,7 @@ Disponibilizar informações sobre o estabelecimento
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 2: Moderador </th>
+<th colspan="3">Perfil 3: Moderador </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
