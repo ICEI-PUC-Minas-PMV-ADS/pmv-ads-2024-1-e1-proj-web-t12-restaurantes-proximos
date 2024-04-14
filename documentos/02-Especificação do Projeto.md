@@ -102,10 +102,35 @@ Promover atualizações
 
 ### Requisitos Funcionais
 
-![Capturar 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/9b8d24f6-05eb-4c2b-a73a-1437f65ee40a)
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-01| A aplicação deve permitir ao consumidor cadastrar uma conta  | ALTA | 
+|RF-02| A aplicação deve permitir ao consumidor fazer o login da sua conta .   | ALTA | 
+|RF-03| Possibilitar aos usuários pesquisarem restaurantes com base em critérios como localização, tipo de cozinha, preço, avaliações dos usuários etc.     | ALTA |
+|RF-04| Permitir aos usuários visualizarem detalhes completos de um restaurante, incluindo menu, fotos, comentários e avaliações.    | ALTA |
+|RF-05|Enviar notificações aos usuários sobre ofertas especiais, novos restaurantes na área, confirmações de reservas.   | MÉDIA   |
+|RF-06|A aplicação deve permitir ao comerciante fazer o cadastro de pratos.    | ALTA  |
+|RF-07| A aplicação deve permitir ao comerciante disponibilizar informações sobre o restaurante.    | ALTA |
+|RF-08|   A aplicação deve apresentar, para cada prato, uma imagem correspondente.   | BAIXA |
+|RF-09| A aplicação deve permitir ao comerciante visualizar as informações sobre o consumidor que foi ao restaurante.   | MÉDIA |
+|RF-10| Integrar o sistema com serviços de mapas para fornecer direções para os restaurantes.   | MÉDIA  |
+|RF-11| Enviar notificações aos usuários sobre ofertas especiais, novos restaurantes na área, confirmações de reservas.   | BAIXA |
+|RF-12| Permitir que os usuários avaliem e comentem sobre os restaurantes que visitaram.   | BAIXA |
+
+**Prioridade: Alta / Média / Baixa.  
+
+### Requisitos Não Funcionais
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-01| O web site deve ser publicado em um ambiente acessível público na Internet.   | ALTA | 
+|RNF-02| O web site deverá ser de fácil entendimento permitindo a visualização em dispositivos diversos de forma adequada  | MÉDIA | 
+|RNF-03| O web site deve ter bom nível de contraste entre os elementos da tela.    | BAIXO | 
+|RNF-04| O web site deve ser compatível com os navegadores de mercado: Google Chrome, Firefox e Microsoft Edge.   | ALTA | 
+|RNF-05| Assegurar que as informações dos usuários, como dados pessoais e informações de pagamento, sejam protegidas contra acesso não autorizado   | ALTA | 
+|RNF-06| Desenvolver o sistema de forma modular e bem documentada para facilitar futuras atualizações e manutenção | ALTA | 
+|RNF-07| Projetar o sistema de forma que possa lidar com um aumento significativo no número de usuários e restaurantes sem comprometer o desempenho   | MÉDIA | 
+|RNF-08| Garantir que o sistema esteja disponível 24 horas por dia, 7 dias por semana, para que os usuários possam acessá-lo sempre que desejarem.  | ALTA |
 
 
-### Requisitos não Funcionais
-
-![Capturar 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/0f4bdb6e-6225-430f-8bc7-8b0f0088e0a3)
-
+**Prioridade: Alta / Média / Baixa.
