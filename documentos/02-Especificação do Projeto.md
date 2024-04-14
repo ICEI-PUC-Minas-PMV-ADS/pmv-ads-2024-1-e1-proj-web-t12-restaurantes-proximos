@@ -80,7 +80,6 @@ Administrar é cuidar do website
 Corrigir bugs  
   
 Controle de acesso 
-Promover atualizações
 </td>
 </tr>
 </tbody>
