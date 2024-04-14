@@ -11,10 +11,10 @@ Segundo Schwaber e Sutherland (2017), o Scrum é uma estrutura na qual pessoas p
 
 Desta forma, a equipe está organizada da seguinte maneira:
 
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+- Scrum Master:  Leticia Moreira; Thiago Macley.
+- Product Owner: Matheus Ferreira.
 - Equipe de Desenvolvimento: Leticia Moreira; Maria Eduarda; Mariana Santos; Matheus Ferreira; Thiago Macley. 
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+- Equipe de Design:  Maria Eduarda; Mariana Santos
 
 ### Processo
 
