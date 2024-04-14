@@ -1,20 +1,7 @@
 # Apresentação do Projeto
 
 ## Conjunto de Slides
-
-A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
-
-> - Contexto (Problema, Público-alvo)
-> - Requisitos
-> - Solução Implementada (funcionalidades de software)
-> - Conclusão da elaboração do projeto (pontos positivos, desafios, aprendizado).
-
-[Adicione pdf de apresentação.]
-
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+https://sgapucminasbr-my.sharepoint.com/:p:/r/personal/1522080_sga_pucminas_br/_layouts/15/Doc.aspx?sourcedoc=%7B5CADAC36-0388-4E48-8A37-64232BC45A61%7D&file=Restaurantes%20Pr%C3%B3ximos.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1713125294298&wdOrigin=OFFICECOM-HWA.MAIN.REC&cid=67d50357-1a78-4503-87c3-63b1f51a9827&wdPreviousSessionSrc=HarmonyDesktop&wdPreviousSession=417a94ac-1d9b-4e04-8b6a-d47e6666bad1
 
 ## Vídeo de apresentação
 
