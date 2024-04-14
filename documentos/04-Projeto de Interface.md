@@ -21,7 +21,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 O usuário pode buscar sua localização ou a comida desejada na barra de pesquisa, ou o site automaticamente solicita permissão de localização através de um pop-up.
 
-![Home Page](https://files.fm/f/vhxrpp2kha)
+![Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%201%20-%20Home%20Page.png?raw=true)
 
 *Tela 2 - Login*
 
