@@ -27,45 +27,7 @@ Se já possuírem cadastro, os usuários podem acessar suas contas para desfruta
 
 ![Capturar 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/5ff7a3e0-b33e-4d68-bfaa-a9b7898dfd96)
 
-#### Tela 3 - Cadastro
 
-Caso não tenham cadastro no site, podem criar suas contas e registrar suas informações.
-
-![Capturar9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/1610cfe6-d5f8-45ad-8774-887b8e657e20)
-
-#### Tela 4 - Cadastro do Restaurante
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/490c63cd-bc71-479c-80a0-b7cfc1fab5f8)
-
-#### Tela 5 - Solicitações de Reservas
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/4cacf6f3-3e45-4a7d-afb8-7d8e2beae63f)
-
-
-Nessa tela, são apresentadas informações mais detalhadas sobre o restaurante escolhido pelo usuário na tela anterior.
-
-![Detalhes da busca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%205%20-%20Detalhes%20da%20busca.png?raw=true)
-
-
-#### Tela 6 - Navegação/Deslocamento até o restaurante escolhido
-
-É apresentada uma rota que o usuário pode seguir até o restaurante, através de aplicativos de GPS.
-
-![Navegação/Deslocamento até o restaurante escolhido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%206%20-%20Navega%C3%A7%C3%A3o-Deslocamento%20at%C3%A9%20o%20restaurante%20escolhido.png?raw=true)
-
-
-#### Tela 7 - Realização dos pedidos/reservas
-
-A caminho do local, o usuário já pode fazer seus pedidos ou realizar uma reserva.
-
-![Realização dos pedidos/reservas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%207%20-%20Realiza%C3%A7%C3%A3o%20dos%20pedidos-reservas.png?raw=true)
-
-
-#### Tela 8 - Feedback/Avaliações
-
-Com o objetivo de melhorar sua própria expêriencia como cliente, o usuário pode deixar avaliações para o restaurante, contribuindo para a qualidade do serviço e ajudando outros a fazerem escolhas informadas.
-
-![Feedback/Avaliações](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%208%20-%20Feedback-Avalia%C3%A7%C3%B5es.png?raw=true)
 
 
 
