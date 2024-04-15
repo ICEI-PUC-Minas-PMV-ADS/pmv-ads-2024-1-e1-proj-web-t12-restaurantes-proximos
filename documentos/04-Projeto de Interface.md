@@ -68,12 +68,6 @@ Com o objetivo de melhorar sua própria expêriencia como cliente, o usuário po
 ![Feedback/Avaliações](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%208%20-%20Feedback-Avalia%C3%A7%C3%B5es.png?raw=true)
 
 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
 
 
 
