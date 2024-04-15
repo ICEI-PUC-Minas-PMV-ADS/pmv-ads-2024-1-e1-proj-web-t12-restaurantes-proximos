@@ -11,7 +11,7 @@ Segundo Schwaber e Sutherland (2017), o Scrum é uma estrutura na qual pessoas p
 
 Desta forma, a equipe está organizada da seguinte maneira:
 
-- Scrum Master:  Leticia Moreira; Thiago Macley.
+- Scrum Master:  Leticia Moreira; 
 - Product Owner: Matheus Ferreira.
 - Equipe de Desenvolvimento: Leticia Moreira; Maria Eduarda; Mariana Santos; Matheus Ferreira; Thiago Macley. 
 - Equipe de Design:  Maria Eduarda; Mariana Santos
