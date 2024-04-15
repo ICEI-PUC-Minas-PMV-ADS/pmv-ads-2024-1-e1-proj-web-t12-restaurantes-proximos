@@ -33,12 +33,14 @@ Caso não tenham cadastro no site, podem criar suas contas e registrar suas info
 
 ![Capturar9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/1610cfe6-d5f8-45ad-8774-887b8e657e20)
 
-#### Tela 4 - Resultados da Pesquisa
+#### Tela 4 - Cadastro do Restaurante
 
-![Resultados da Pesquisa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%204%20-%20Resultados%20da%20Pesquisa.png?raw=true)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/490c63cd-bc71-479c-80a0-b7cfc1fab5f8)
 
+#### Tela 5 - Solicitações de Reservas
 
-#### Tela 5 - Detalhes da busca
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/4cacf6f3-3e45-4a7d-afb8-7d8e2beae63f)
+
 
 Nessa tela, são apresentadas informações mais detalhadas sobre o restaurante escolhido pelo usuário na tela anterior.
 
