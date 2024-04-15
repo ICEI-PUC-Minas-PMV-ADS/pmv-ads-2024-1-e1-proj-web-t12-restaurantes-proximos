@@ -25,8 +25,7 @@ O usuário pode buscar sua localização ou a comida desejada na barra de pesqui
 
 Se já possuírem cadastro, os usuários podem acessar suas contas para desfrutar de recursos como histórico de pedidos, favoritos e recomendações personalizadas.
 
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/blob/main/documentos/img/Tela%202%20-%20Login.png?raw=true)
-
+![Capturar 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/5ff7a3e0-b33e-4d68-bfaa-a9b7898dfd96)
 
 #### Tela 3 - Cadastro
 
