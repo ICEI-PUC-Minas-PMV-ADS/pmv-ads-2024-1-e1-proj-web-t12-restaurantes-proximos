@@ -37,7 +37,7 @@ Se já possuírem cadastro, os usuários podem acessar suas contas para desfruta
 
 #### Tela 5 - Solicitações de Reservas
 
-![Capturar 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/d334a26c-e901-400c-8ae6-246802f1f9e8)
+![Capturar 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/7df51b95-6550-449c-a3b5-af3fa3770228)
 
 #### Tela 6 - Controle de Reservas
 
