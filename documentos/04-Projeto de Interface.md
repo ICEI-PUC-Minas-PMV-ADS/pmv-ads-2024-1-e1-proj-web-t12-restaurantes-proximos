@@ -53,7 +53,7 @@ Se já possuírem cadastro, os usuários podem acessar suas contas para desfruta
 
 #### Tela 9 - Cardápio do Restaurante
 
-![Capturar 16](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/df734adb-6c99-4993-b71e-65a405d14704)
+![Capturar 16](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/ac34fb1a-84db-4399-89c0-1f33d095a9d6)
 
 
 
