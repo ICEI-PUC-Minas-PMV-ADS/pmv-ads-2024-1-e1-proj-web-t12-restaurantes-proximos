@@ -31,8 +31,7 @@ Se já possuírem cadastro, os usuários podem acessar suas contas para desfruta
 
 Caso não tenham cadastro no site, podem criar suas contas e registrar suas informações.
 
-![Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166944828/b2ced15e-e238-4836-98e3-3f581e737b46)
-
+![Capturar9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/1610cfe6-d5f8-45ad-8774-887b8e657e20)
 
 #### Tela 4 - Resultados da Pesquisa
 
