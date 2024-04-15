@@ -3,7 +3,8 @@
 
 ## User Flow
 
-![Capturar 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/fdbccdd1-eacb-47fa-b46f-58fcc8f17280)
+![Capturar 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/0f49a545-79d4-445c-bbb5-1824627e653b)
+
 
 ## Protótipo
 
