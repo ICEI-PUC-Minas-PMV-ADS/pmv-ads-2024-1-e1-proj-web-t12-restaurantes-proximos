@@ -8,9 +8,12 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 <li>Font-size: 15px e 28px. </li>
 </ul>
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+<h3><b>Tela de visualização dos Restaurantes</b></h3>
+<p>Exibe informações sobre os Restaurantes cadastrados, a imagem da capa e o contato do consumidor.</p>
+
+![encontre o seu restaurante](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/6f180be6-122e-4783-b6af-30c703e49bd4)
+
+<h3><b>Tela de Avaliações </b></h3>
+<p>Exibe informações de experiencias dos consumidores.</p>
+
+![depoimentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/5499547d-756c-4493-8804-848f19d41ab4)
