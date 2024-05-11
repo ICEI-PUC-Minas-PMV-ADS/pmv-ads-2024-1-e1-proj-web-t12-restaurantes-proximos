@@ -20,41 +20,30 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 O usuário pode buscar sua localização ou a comida desejada na barra de pesquisa, ou o site automaticamente solicita permissão de localização através de um pop-up.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/d9603fa7-2f06-47e3-8678-6b58a94e2d28)
+![encontre o seu restaurante](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/1434cc02-ce34-4d6a-a8b4-58e0251f0014)
+
 
 #### Tela 2 - Login
 
 Se já possuírem cadastro, os usuários podem acessar suas contas para desfrutar de recursos como histórico de pedidos, favoritos e recomendações personalizadas.
 
-![Capturar 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/5ff7a3e0-b33e-4d68-bfaa-a9b7898dfd96)
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/cc989a93-1652-4914-9b1c-1b961aa03b7e)
 
 #### Tela 3 - Cadastro
 
-![Capturar9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/1610cfe6-d5f8-45ad-8774-887b8e657e20)
+![cadastro consumidor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/60ac5e90-1acd-4051-bf8e-37f1046779e8)
 
 #### Tela 4 - Cadastro do Restaurante
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/490c63cd-bc71-479c-80a0-b7cfc1fab5f8)
-
-#### Tela 5 - Solicitações de Reservas
-
-![Capturar 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/7df51b95-6550-449c-a3b5-af3fa3770228)
-
-#### Tela 6 - Controle de Reservas
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/6f16699b-e90c-4bf1-9296-9d31708418ea)
+![cadastro comerciante](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/a2c73f18-b434-4c88-9da4-0b242c6ff45a)
 
 #### Tela 7 - Seleção do Restaurante
 
-![Capturar 14](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/04b90240-8f52-430e-90d7-26caffed03c0)
+![encontre o seu restaurante](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/ea549f2d-6994-4ba9-9b19-2037cfa815ca)
 
-#### Tela 8 - Fotos do Restaurante
+#### Tela 9 - Avaliações 
 
-![Capturar 15](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/270db7a8-d149-409a-9039-7f27c8e215fb)
-
-#### Tela 9 - Cardápio do Restaurante
-
-![Capturar 16](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/ac34fb1a-84db-4399-89c0-1f33d095a9d6)
+![depoimentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-restaurantes-proximos/assets/166460937/4a6a0f51-2abd-411d-9483-7130489e7f80)
 
 
 
