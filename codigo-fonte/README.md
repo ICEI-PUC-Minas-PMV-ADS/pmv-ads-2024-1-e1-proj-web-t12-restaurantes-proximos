@@ -1,18 +1,71 @@
-# Instruções de utilização
+<!DOCTYPE html>
+<html lang="pt-br">
 
-## Estratégia de Organização de Codificação 
+<head>
+    <title>Restaurantes proximos</title>
+    <link rel="stylesheet" href="login-style.css">
+    
+    
+    
+</head>
 
-Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, sugerimos que o projeto seja estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas. Por exemplo:
-- Pasta src (root do projeto): index.html, index.css, index.js - Desenvolvedora responsável: Aluna X.
-- Pasta src\clientes: clientes.html, clientes.css, clientes.js - Desenvolvedor responsável: Aluno Y.
-- Pasta src\funcionarios: funcionarios.html, funcionarios.css, funcionarios.js  - Desenvolvedora responsável: Aluna Z.
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="../encontreRestaurante/encontre.html">Restaurantes proximos</a>
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+              <li><a href="../encontreRestaurante/encontre.html">Encontre Restaurante</a></li>
+              <li id="menu-cadastro"><a href="../cadastroUsuario/cadastro.html">Cadastre-se</a></li>
+              <li id="menu-entrar"><a href="../login/login.html">Entrar</a></li>
+         
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+    
 
-## Instalação do Site
+        <div class="content">    
+            
+          <!--FORMULÁRIO DE LOGIN-->
+          <div id="login">
+            
+              <h1>Login</h1> 
 
-O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um servidor web de sua preferência. Existem diversos servidores web gratuitos que podem ser utilizados, tal como GitHub Pages (GitHub.IO), Vercel, Render, Netlify, Surge.sh, entre outros. Nesse primeiro eixo, recomenda-se inclusive a utilização do GitHub Pages. [Insira o endereço eletrônico público para acessá-lo.] 
+              <div id="msgError"></div>
 
-## Histórico de versões
+              <p class="caixa"> 
+                <label id="emailLabel" for="email_login">E-mail</label>
+                <input id="email_login" name="email_login" required="required" type="text" placeholder="Insira seu e-mail"/>
+              </p>
+              
+              <p class="caixa"> 
+                <label id="senhaLabel" for="senha_login">Senha</label>
+                <input id="senha_login" name="senha_login" required="required" type="password" placeholder="Insira sua senha" /> 
+               
+              
+              <p class="caixa"> 
+                <input type="checkbox" name="manterlogado" id="manterlogado" value="" /> 
+                <label for="manterlogado">Manter-me logado</label>
+              </p>
+              
+              <p class="caixa"> 
+                <button onclick="entrar()" class="login-button" id="botao" type=”button”>Entrar</button>
+              </p>
+           
+          </div>
+          
+         
+    <footer class="rodape">
+        <p>Restaurantes proximos | 2024.</p>
+    </footer>
+  
+</body>
+  
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+</html>
