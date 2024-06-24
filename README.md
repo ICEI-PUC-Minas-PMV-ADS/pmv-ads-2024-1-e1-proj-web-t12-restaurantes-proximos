@@ -36,7 +36,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de avaliaç
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web.
 
 # Código-Fonte
 
